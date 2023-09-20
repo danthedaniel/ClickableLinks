@@ -1,4 +1,4 @@
 name: ClickableLinks
-main: im.evan.clickablelinks.ClickableLinks
+main: com.danangell.clickablelinks.ClickableLinks
 version: 1.0.0
-api-version: 1.19
+api-version: 1.20
