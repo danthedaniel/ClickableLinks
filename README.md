@@ -1,5 +1,5 @@
 # ClickableLinks (Fork)
-liberate your server from the anti-link-clicking bourgeois. paper plugin to restore chat message link clickability on 1.19.1+
+liberate your server from the anti-link-clicking bourgeois. paper plugin to restore chat message link clickability on 1.20.1
 
 ## Fork Additions
 
