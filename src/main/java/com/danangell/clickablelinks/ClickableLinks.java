@@ -20,7 +20,7 @@ public class ClickableLinks extends JavaPlugin implements Listener {
     private static final String PERMISSION_NAME = "clickablelinks.enabled";
     private static final Pattern URL_REGEX = Pattern.compile(
             "https?://[a-z0-9]+(\\.[a-z0-9]+)*(\\.[a-z0-9]{1,10})((/+)[^/ ]*)*",
-            Pattern.CASE_INSENSITIVE | Pattern.MULTILINE);
+            Pattern.CASE_INSENSITIVE);
     private static final TextReplacementConfig REPLACER = TextReplacementConfig.builder()
             .match(URL_REGEX)
             .replacement((c) -> c
